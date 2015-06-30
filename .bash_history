@@ -311,3 +311,23 @@ cd
 cd workspace/www/admin
 ls
 unzip adminiziolite.zip
+git init
+git add --all
+git commit -m"initial commit"
+git remote add origin git@github.com:polycste/php_OOP.git
+git push -u origin master
+git push
+git check master
+checkout
+git push -u origin master
+git branch -a
+git checkout test
+git cd/www
+hit help
+git add --all
+git commit -this is sir code"initial commit"
+cd/www/class
+git add cd/www/class
+gir add--www/class
+git add--/workspace/www/class
+git --help
